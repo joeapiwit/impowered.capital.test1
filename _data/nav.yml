@@ -2,7 +2,7 @@
   path: index.html
   section_id: home
 - name: About Us
-  path: about.html
+  path: impowered.capital.test1/about.html
   section_id: about
 # - name: Services
 #   path: services.html
@@ -16,26 +16,26 @@
 #     - name: Portfolio item
 #       path: portfolio-item.html
 - name: Strategy
-  path: strategy.html
+  path: impowered.capital.test1/strategy.html
   section_id: portfolio
   children:
     - name: IMP strategy
-      path: impstrategy.html
+      path: impowered.capital.test1/impstrategy.html
     - name: CTA strategy
-      path: ctastrategy.html
+      path: impowered.capital.test1/ctastrategy.html
 - name: Demo
-  path: demo.html
+  path: impowered.capital.test1/demo.html
   section_id: portfolio
   children:
     - name: IMP demo
-      path: impdemo.html
+      path: impowered.capital.test1/impdemo.html
     - name: CTA demo
-      path: ctademo.html
+      path: impowered.capital.test1/ctademo.html
 - name: Sign Up
-  path: signup.html
+  path: impowered.capital.test1/signup.html
   section_id: Sign Up
 - name: Log in
-  path: login.html
+  path: impowered.capital.test1/login.html
   section_id: login
 # - name: Blog
 #   path: blog/
